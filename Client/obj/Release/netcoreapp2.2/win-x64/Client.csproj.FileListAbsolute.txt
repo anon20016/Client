@@ -1,0 +1,12 @@
+C:\Users\anon2\source\repos\Client\Client\bin\Release\netcoreapp2.2\win-x64\Client.exe
+C:\Users\anon2\source\repos\Client\Client\bin\Release\netcoreapp2.2\win-x64\Client.deps.json
+C:\Users\anon2\source\repos\Client\Client\bin\Release\netcoreapp2.2\win-x64\Client.runtimeconfig.json
+C:\Users\anon2\source\repos\Client\Client\bin\Release\netcoreapp2.2\win-x64\Client.runtimeconfig.dev.json
+C:\Users\anon2\source\repos\Client\Client\bin\Release\netcoreapp2.2\win-x64\Client.dll
+C:\Users\anon2\source\repos\Client\Client\bin\Release\netcoreapp2.2\win-x64\Client.pdb
+C:\Users\anon2\source\repos\Client\Client\obj\Release\netcoreapp2.2\win-x64\Client.csproj.CoreCompileInputs.cache
+C:\Users\anon2\source\repos\Client\Client\obj\Release\netcoreapp2.2\win-x64\Client.AssemblyInfoInputs.cache
+C:\Users\anon2\source\repos\Client\Client\obj\Release\netcoreapp2.2\win-x64\Client.AssemblyInfo.cs
+C:\Users\anon2\source\repos\Client\Client\obj\Release\netcoreapp2.2\win-x64\Client.dll
+C:\Users\anon2\source\repos\Client\Client\obj\Release\netcoreapp2.2\win-x64\Client.pdb
+C:\Users\anon2\source\repos\Client\Client\obj\Release\netcoreapp2.2\win-x64\Client.csprojAssemblyReference.cache
