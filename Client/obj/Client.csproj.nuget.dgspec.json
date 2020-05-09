@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anon2\\source\\repos\\Client\\Client\\Client.csproj": {}
+    "C:\\Users\\anon2\\OneDrive\\Documents\\Client\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anon2\\source\\repos\\Client\\Client\\Client.csproj": {
+    "C:\\Users\\anon2\\OneDrive\\Documents\\Client\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anon2\\source\\repos\\Client\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\anon2\\OneDrive\\Documents\\Client\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\anon2\\source\\repos\\Client\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\anon2\\OneDrive\\Documents\\Client\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\anon2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anon2\\source\\repos\\Client\\Client\\obj\\",
+        "outputPath": "C:\\Users\\anon2\\OneDrive\\Documents\\Client\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
